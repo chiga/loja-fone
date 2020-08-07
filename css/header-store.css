@@ -1,27 +1,6 @@
-/* .container {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-}
-
-.box{
-  width: 300px;
-  height: 300px;
-} */
-
 .header-store {
-  background-color: #e24647;
   color: #fff;
   overflow: hidden;
-  /* margin: 0 115px; */
-  padding: 55px 60px 95px;
-  width: 80%;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-
-  transform: translateX(-50%) translateY(-50%);
 }
 
 .title {
